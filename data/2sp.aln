@@ -1,0 +1,420 @@
+CLUSTAL format alignment by MAFFT (v7.475)
+
+
+Sp_ops1         MNYSTPVMTSTASVSGPSP-----------------------------------------
+Sp_ops5         MPTTL--MENSTPG----------------------------------------------
+gbr.176.10.t1   -------M----------------------------------------------------
+Sp_ops3         -------MNSFSEESYV-------------------------------------------
+gbr.470.6.t1    -------MA---------------------------------------------------
+Sp_ops8         -------MDVNAKW----------------------------------------------
+gbr.35.57.t1    -------ME---------------------------------------------------
+gbr.508.2.t1    -------METCEPMAATVP-----------------------------------------
+gbr.176.5.t1    -------MENTS------------------------------------------------
+gbr.65.46.t1    -------MNTTLQSGVLSPTEPSGTYDGIPQAVFDVTSVYLGLLTFFGIFNNGLVLVLYT
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    -------MNSSDPY------------------VRD-----RGIIT---TRDREVSLQLHR
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         -------MHTV-------------------------------------------------
+gbr.212.22.t1   -------MTLCNAS----------------------------------------------
+gbr.65.45.t1    -------M----------------------------------------------------
+Sp-melatonin_1A MDAG---MDGTNAT----------------------------------------------
+                                                                            
+
+Sp_ops1         ------------------------------------------------------------
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ------------------------------------------------------------
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         ------------------------------------------------------------
+gbr.35.57.t1    ------------------------------------------------------------
+gbr.508.2.t1    ------------------------------------------------------------
+gbr.176.5.t1    ------------------------------------------------------------
+gbr.65.46.t1    RYKTLRNPV--NLFLINIS----------------------VGDLSVSVLGSPFTFAANV
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    KNSMQREQLGKQLKRLDKEQQECIRRTHMEKCAISRDQKCLVSDLN--------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A -------------FLLD-------------------------------------------
+                                                                            
+
+Sp_ops1         ---WTST---------------------------LESKAMSNLMTGLVTNVNALSGI---
+Sp_ops5         ---WM-------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ------------------------------------------------------------
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         ---W--------------------------------------------------------
+gbr.35.57.t1    ------------------------------------------------------------
+gbr.508.2.t1    ------------------------------------------------------------
+gbr.176.5.t1    ---W-----------------------------------------------NSVSDFPLM
+gbr.65.46.t1    ARRWIFSAGGCTWYAFIVTVCEQKLQFSHELLLRLEQRRIG--SVSFPISERSLRGLPLG
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    --KFTFSQDDPP------------------------------LADDAFVDQQARTDEPTR
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   -------------------------------------------SCGSFETVNSSTDD---
+gbr.65.45.t1    ---WIKP------------------------------------ASGTFKESNKVYKA---
+Sp-melatonin_1A --DW--------------------------------------------------------
+                                                                            
+
+Sp_ops1         ------------------------------------GNETPTTIG---------------
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ------------------------------------TDPTTTQ-----------------
+gbr.470.6.t1    -----RRRR---------------------------FAPTARRKGAVVP-----------
+Sp_ops8         ------------------------------------TNETLRTRDQFS------------
+gbr.35.57.t1    ------------------------------------------------------------
+gbr.508.2.t1    ------------------------------------TASLLATAGN--------------
+gbr.176.5.t1    ------------------------------------GTTAPMPRGP--------------
+gbr.65.46.t1    ------REDAS--------------------GGQLSMNVTSTTVGNY-------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    SPPAVRRKEAATATHKASTRRVSLPDELHDPGA---SEASTKDKERFIDQKKNREITKLK
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   ------------------------------------GESLPSLDDRHI------------
+gbr.65.45.t1    ------------------------------------SRVKLKNEGNFVHENK--------
+Sp-melatonin_1A -----ERD----------------------------------------------------
+                                                                            
+
+Sp_ops1         ---------------------------------------------------------LSS
+Sp_ops5         ---------------------------------------------------------ADD
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ---------------------------------------------------------PTL
+gbr.470.6.t1    -------------------------------------------SRRLEEGKREREK----
+Sp_ops8         ---------------------------------------------------------DDH
+gbr.35.57.t1    ---------------------------------------------------------EDG
+gbr.508.2.t1    ---------------------------------------------------------GSQ
+gbr.176.5.t1    ------------------------------------------------------------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    KVSLRMESGNKKDSDERKGKPNIPINAWYHDNHAKARERSFSVFDRLSEGSNLNSMSSEQ
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         LVVPVSRTTYNYLTVYTGFLTIFGILNNGIVMILFARFPSLR-HPINSFLFNVSLSDLII
+Sp_ops5         SQMEETHPAFPLIGGYLLVVVLLGTAGNSLVIYTFLRFKKLH-SPINLLIVNLSASDLLV
+gbr.176.10.t1   -------AGYVVIGAYLCAVIVTGFIGNLIVIAAFCKFKKLR-TANNCLIMNLSGSDLAM
+Sp_ops3         FLTPLSQTGYLLTALYLTLVGIVSTIGNITVLCVLCRYGTFRKRSVNILLMNMAVSDLGV
+gbr.470.6.t1    --------------------CTVATIGNISTLIILLRFSTFRKKSINFILINMAVSDLGV
+Sp_ops8         YTSVLSYEGDIWAGVYLMFISLIAFIGNISVIVISLRKREKL-KPIDLLTINLAIADFLI
+gbr.35.57.t1    FASLVSPVAGIASGIWITMITAVSFVGNGAVLVLSMRKRKNL-KPLDLLTINLAVSDLSV
+gbr.508.2.t1    LEPYLSRSAFTGLAVYLAVVCLLSFVGNAAVIFLYARYRALH-NVVNIFLLNVCVADINV
+gbr.176.5.t1    --PPMPPFLDYGLAFFLFVAFVFGIAGNGVTLWIFVRTKSLR-TAPNMLIVNLAFSDISM
+gbr.65.46.t1    --PPVPLAAFDVTGVYLGFLTLFGVFNNALVLVLYARYTTLR-NPINVFLVNICVADLSV
+Sp_ops6         -----------------------------------------------------------M
+gbr.31.87.t1    FLQRMMDHSTLWSGSTMH--GGSASAGDGGTSST---------SGVQILLGILMV--IQC
+gbr.37.118.t1   ------------------------MLLNGVLFVLYVTKKSLR-KPSSLLGMSLCAGDFGI
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   -------AVIVIQSGVMAVIMLLSVLGNSLVLAAIYRDGQLK-NTASVYVANLAIADFLN
+gbr.65.45.t1    --------------------------GNTLQVCE-------------------------V
+Sp-melatonin_1A -----------FLASALLVMFVAGTTGNVMVLLAVALSRKLQ-TSTNIFVVSLSMTDLLV
+                                                                            
+
+Sp_ops1         SCLASPFTFASNF-AGRWLFGDLGCTLYAFLVFVAGTEQIVILAALSIQRCMLVVRPFT-
+Sp_ops5         ATTGTPLSMVSSF-YGRWLFGTNACAFYGFVNYYCGCISLNSLAAISVFRYIIVVRGQA-
+gbr.176.10.t1   AIVGTPMSCSSSF-AGKWLYGAAGCTYYGFINYYCGCISLNTFVVIAMYRYVVILKHRP-
+Sp_ops3         SVAGYPLTAISGY-RGRWVFADIGCQFSGFCVYALSCSTISTHAVVAIYRYIYIVKPYH-
+gbr.470.6.t1    SISGYPMTSSSAF-AGHWLFGDSGCRYIALCVYTFSCSSIGSHVALAVYRYIYVCKPSL-
+Sp_ops8         CVVSYPLPMISAF-RHRWSFGKFGCVWYGFTSFLFAVGSMATLMVIALLRYAKLCRENV-
+gbr.35.57.t1    CLIGYPLAAVSGF-ASKWSFGDSGCEWYGFCGFFFNVSALMTLLALAVCRYLKLCWKHL-
+gbr.508.2.t1    ALLGTSLSFVSTA-AGHWLFGSAGCTWYGFVC----------------------------
+gbr.176.5.t1    IITNFPLMFASTI-YGKWLFGDLVCEIYAFFGGLFGFMSIATMTAIALDRHYVICHSME-
+gbr.65.46.t1    AVFGTPLTFVANV-ARRWIFGAGGCTWYAFIVTTCGTEQIVSLAAVSVHRCCLVVRPFT-
+Sp_ops6         AICCIPLSTTANF-IQRWPFHWAGCKFYGFFFMFFGLTTVGNTVTLAVSRYLIVCRSEL-
+gbr.31.87.t1    MCVCIPFSAASVL-SGRWVFDLAGCKFYGFASMFFGLAVIGLLTCLSIDRYIVVCRRSL-
+gbr.37.118.t1   GLM-CPFAALASF-REVWPYGEQGCQLYGCVGMLFGTVSITSLVSLAVEKYHSAI-----
+Sp_ops2         -----------------GLFAHVGCISYAFIMTFLGLNSLMSHAVIAVDRYLVITKPHF-
+gbr.212.22.t1   GALAMPFILTCST-VGRWPFGAFICSFVGALTTLFCSVSVFTLGTIAIDRYLAILHPLQ-
+gbr.65.45.t1    CEAGFPNRHTVSV-TGHR--SESSLKHYSRTS-----DKKKRLTAAAIANQENVQEPETL
+Sp-melatonin_1A SLV-QPLQAAGMLGKDGWPLPDLICKIVADVAITCVSCSVITVSLIGLNRFVLITRSKEA
+                                            .                               
+
+Sp_ops1         -AQKMTHRWALFFISLTWIYSLIICVPPL--FGWNRYTYEG-PGTACSVAWNSPSPGDTS
+Sp_ops5         QNNKLSLRSSIYAILVIHLYTLIFSTPPL--YGWNRFVLAG-YHTSCDIDFHTKTPLFVS
+gbr.176.10.t1   -NRRISIKTILKVIVAVHAITLICTMPPL--FGWNEFILEG-FKTQCDINYRKKSPLFVS
+Sp_ops3         -RPRLSSSTSCLAILCIWTFTLFWTITPF--FGWSSYTYEP-FGTSCSINWYGKSLGDLT
+gbr.470.6.t1    -KHKLTPKVTFKVMGIIWAYVFFWTLTPF--LGWSSYTYEP-FGLSCSLDWTGRSVSHLS
+Sp_ops8         -DQYQSRPFVIKVIVAIWGFAFFTTAPPL--FGWSSYVPEP-YHLSCTIDFADTSPSGLS
+gbr.35.57.t1    -DDRVFAKHMPKILTAIWAYSFLWTFPPL--VGWNRYVPER-FHTSCTVDWASRLPSDQA
+gbr.508.2.t1    ------------------------------------------TLSVCSVNWQTGS---RS
+gbr.176.5.t1    AMRTVTRRKAAYKILLVWIYSSIWSLLPF--FGFGAYVLEG-YGVSCTFEYLDLSLKNRL
+gbr.65.46.t1    -AQKMTLRWALIFISMTWAYSLIA-------FNF-RYKEDD-------------------
+Sp_ops6         -AQQLTFSHYRYFAMSAWVNGLFWALMPI--FGWSRYDIDSPLQTSCFVDWQRIDLSYVS
+gbr.31.87.t1    -ASSLTKTHYIYMSVAACVNALFWAIMPV--FGWANYDEIG--TSGCSVDWRRGDASYIS
+gbr.37.118.t1   -GYRVGQKVYLIATSAIWLNAVFWALTPLRFVGWGRYGIEP-PKTTCMLDFGAHGANYVT
+Sp_ops2         -GIVVTYPKAFLMISIPWVFSFAWAVFPL--AGWGEFTYEG-TGAWCSVRWDSDQPQIMS
+gbr.212.22.t1   YNAVMTRSKIIFSIALTWLHAVVLSALPI--MGWSTYAYID-MEYICTADWGGT----LS
+gbr.65.45.t1    YTDAV--------------------ATPL--ASCSADLLAP---RACSVDWTSSDPGDSS
+Sp-melatonin_1A YQRIFSTKFMAAMIMFSWMYPVVTLIIPQTSGRHGRLGYDP-STRLCIWDFAH--PNAKI
+                                                                            
+
+Sp_ops1         YIIFIFVLVLVIPFGIIIFCYGLLVYAVKKISRTQAALS---------------------
+Sp_ops5         YICYMFFFLFFLPLGLISWSYFKIYQRVSKHSNSMRTSFTGVTKEINSDEKHAWLEKMKT
+gbr.176.10.t1   YIAFMFIVLFTTPLSVIVYCYWRIFTFLRKRTVEQMSQSVS-------------------
+Sp_ops3         YIICCVVFVFILPIIIMLYCYIGVAKKIKGIDPLRTEER---------D-----------
+gbr.470.6.t1    YNTACVLGVFFAPLIIILYCYFRVAKRSNQVDPTRMEEK---------D-----------
+Sp_ops8         YTYFTTIVVFFMPLMIIVLCYVAIARKMIHHNRRINVGHNA-------------------
+gbr.35.57.t1    YIVCVFLFCFSIPVVGLIGCYGAISKTICTHRKKILRQ----------------------
+gbr.508.2.t1    YTLFIFFMILVLPLSVIVFSYTKILVTVKKMAKCQVSNR---------------------
+gbr.176.5.t1    YVGTIFTFGFLIPLGVIIACYVHIAYTLRQHRLQLMRVQNDLRSPGN-D-----------
+gbr.65.46.t1    -----------------------------RGTHIEAAQV---------------------
+Sp_ops6         YIVSWFIINFVLPLSLMVFCYVSAFLTRQEEAGEAEEGQFAADPTRN-D-----------
+gbr.31.87.t1    YLFILFTFCFVLPVVTMVLCFGRTHAVIVKRQQVHDATNLS-------D-----------
+gbr.37.118.t1   YLAAMMGSVYVLPMGTILWCLVKL----REGGDTDDA-----------------------
+Sp_ops2         YVLAMMFLTFISSIVIMMYCYICIFLTTRRMPRWATSNS---------------------
+gbr.212.22.t1   YTLTVFAIDLGFPVTTMFFCYYHVLKTARKHSRQVASCQVGPAGVNGCPRERCFCQSW--
+gbr.65.45.t1    YIIFIFVMVLVIPLSLIVGSYTLLLYAVKKIASSEAARS---------------------
+Sp-melatonin_1A YVVLAAVMS-MTTFNVTFVSYILIFRHVRKSALMTRSNAAIIRRPSA-------------
+                                                                            
+
+Sp_ops1         -------------------------SEAKADRKVSKMIFIMILFFLIAWTPYTGFSLYVT
+Sp_ops5         TQILHKPVTFLRLKSSFEPRFKPRFKRRFNHRRTASTLFVTIVVFLFAWFPYCIVSLWVL
+gbr.176.10.t1   ----------LQLRS----------SARTMEKRTTVMMLVCLCFFLSAWTPYCIVSLWSV
+Sp_ops3         ----IAVV-FGRLRK----------HETKIDTRVTKICFMMMASFIVVWTPYAVGSIWA-
+gbr.470.6.t1    ----LGVVMFLQMHR----------KDVKVDFHVTKMCIMMTASFVIAWTPYAVVCIWVV
+Sp_ops8         -------------------------GRMLLEIRLLKTACMITMAYTISWTPYAVIAMWVT
+gbr.35.57.t1    -------------------------HKTHFTHFWTESSFAATVAYMIAWTPYAVISFWAF
+gbr.508.2.t1    -------------------------QSRRAEKKVTIMVVVMIVAFMVAWSPYAILALYSA
+gbr.176.5.t1    ----KAQA--AAIRKV---------KAENVEWQIAKVGIMLTILFCASWMPYASVAFIGE
+gbr.65.46.t1    -------------------------HADQREKKI--------------------------
+Sp_ops6         ----E-----PSPND----------VDWASQPEAHWIGIVTVVVFVLSWVPYSVLLLYVI
+gbr.31.87.t1    ----------LSPVN----------ADWASQKQVTQLGVALIIIFLLTWSPFAIICLWGA
+gbr.37.118.t1   -------------------------KKTAAKMQAATTCVLVLMSLVVYWGAYGVVALWAV
+Sp_ops2         ----------IKTHER---------NRRRREQKLLKTLIAIAIAFLVAWSPYAITSMIVV
+gbr.212.22.t1   -------------------------RRLKSEMKAAITLLAVIGTFLFCWLPHVVTMVCLS
+gbr.65.45.t1    -------------------------SQHKADKKVTIMVVVMITCFLVAWTPYSAFSLYVT
+Sp-melatonin_1A ---------GVSGRKR---------HRKQIELVITKNLLYVICGFFCCVIPYTGLFLALP
+                                                                            
+
+Sp_ops1         F--GKNVVITPLAGTFPPFFAKLCTIHNPIIYFLLNKQFKDALIQ---LFCCG-------
+Sp_ops5         I--GDANSISKLSTTIPSLFAKSSVIYNPLIYVVLNSKFRKALIQ---TLSFL-------
+gbr.176.10.t1   F--GDHRDITPAVSAAPALVAKSCIVFNPIIYGLMSPQFRRSFQV---------------
+Sp_ops3         ---SKIGKISASASVLPTMFAKSSCMINPIIFLTSSSKFRADLGK---LWNRP-------
+gbr.470.6.t1    F--SRL-ELNTATALAPTLFAKSSCMMNPLIYFIASSRYRRDFLR---MFRAS-------
+Sp_ops8         Y--IPVNQIPDAFRILPAFCAKTSSVYNPIIYCIFNKSFRQDLSS---LICCC-------
+gbr.35.57.t1    A--ADVSALPLVVSAVPVFVAKSSAVFNPIIYTIFNQKFKSELQE---LCCCC-------
+gbr.508.2.t1    F--GNSAYVTPLVATLPAMFAKSSTAYNPVIYFLLHDKFRETLYN---LLTCG-------
+gbr.176.5.t1    F--IDASKVTPMVQVIPVVLAKSSASWNPLVYAISHQRFKEALRDHFFVYCCG-------
+gbr.65.46.t1    --------------------ARSRFGYN--------------------------------
+Sp_ops6         S--NDPTEMPTYLPMVAPLFAEITLWIHPILFLVCVKKFRSYAIM---MICC--------
+gbr.31.87.t1    L--GNPSDVPTWLATLAPFAAKCSPVLNPLMFLVFIKKFREYAQV---VLCC--------
+gbr.37.118.t1   A--DDISSVPLHLVAAAPLLAKICPIGNAALQALTNQDIRSVQGE---------------
+Sp_ops2         F--GGSELLSLTATTLPSLFAKSSVMINPIIYAVTSRVFRKSLKK---MLTSFFPGCMTY
+gbr.212.22.t1   R--PHNCHFPDAVFAITTWLAMANSACNPLIYGILNRQFRQAFRD---ILCVW-------
+gbr.65.45.t1    A--SKDNTISPVAASVPAMFAKACTVYNPIIYFLLNQQVRMPFCA---------------
+Sp-melatonin_1A FLEGSWLRVGLHVSSYAAVLLVLDSCLNPLIYAWKHPHFKVVFGC---MV----------
+                                           :                                
+
+Sp_ops1         -------ENPFDRDE--------SEHEGRGGRHRHR--------------------TAPS
+Sp_ops5         -------KCLSKHEL---------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         -------SSLEHTIR---------VEERSREQR------------SFFVRQS----ALPD
+gbr.470.6.t1    -------QSGAPALQGSGGGAGLPLADVSRSQKAGPSTASDNTRGALYLRRT----TSPS
+Sp_ops8         -------ACQCYTIT-------INLDINSHAQQQFRRIEERRDEVGTYKRRPLMICSNPF
+gbr.35.57.t1    -------GCQCYNIS-------ININTTISTHRDESLPVIA---AAAAAHRSRLAFSNPF
+gbr.508.2.t1    -------RFE-RNLE-------ISLRPNPRGGGDARTPPPA------------CISSPPS
+gbr.176.5.t1    -------ESQSRRQR---------------------------------------------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         -------RTEVEAIE-----------------------------------------VDPQ
+gbr.31.87.t1    -------RTHVETIE-----------------------------------------LTPS
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         IMTDKSPPSSSRPIQ-------LGLSSDSKLKKDDQTSSCL--VPGNYEICAAAVPVPPS
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    --INGGNLCEESKMI-------LFLSDDVTVST--------------------CHVIVPA
+Sp-melatonin_1A -------RRKWHEIP------------------------------------------EPS
+                                                                            
+
+Sp_ops1         ATAHIG--------------------------GRGRASSLP-----TATSMLDI-PQAAS
+Sp_ops5         ----------------------------------------------SESS----------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         AMVS--------RSASVYYDKERIYI------GEMRAASIQ-----KEADLLHRDPEAIS
+gbr.470.6.t1    GDV----------SASMYFNKERIYI------GDIKPSGID-----REAKLIHKDPDVLS
+Sp_ops8         AWSRDF---------HETWRQRRIRGIHRNCRNNVRVENINVNFR-RDTDM-------VE
+gbr.35.57.t1    SKFLVS------PSPTRAVNNKRLFVITG-----------------KLSDP---------
+gbr.508.2.t1    ALARKG-------NPSLAL-------------NVLRGXGIALTWVGSEADL--------E
+gbr.176.5.t1    ------------HSTTRSMSSEN-------RNTDSRATSVRSVI--SEADKRDRTGTVMS
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         A-----------------------------------------------------------
+gbr.31.87.t1    TAQDTP----------------------------------------TEGEL---------
+gbr.37.118.t1   -ES-------------------------------------------READK---------
+Sp_ops2         AVLPKVNVEPSGNRLSAAIEMERLNKLLPGKHGKGRPPYFGR----RASDI---------
+gbr.212.22.t1   ----------------------------------------------KARKLFSR------
+gbr.65.45.t1    CTGAVFVKHNQCKCTAGIVHNLR----PTGSNGVLYGYGFYLCY--RAHDR---------
+Sp-melatonin_1A KYLTRF--------------------------PRLGGNTIKSLVI-SESTQ---------
+                                                                            
+
+Sp_ops1         TAASSSGKTQ---------------------------NKESLEKGPSTSETTNKRVFE--
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         IASSTSSSLQFVLKDRQ--------------------NRYKKKAGEASKKGSNILHFPY-
+gbr.470.6.t1    MSSSNTSEYQVVVKE-------------------------TKKAEEPT------------
+Sp_ops8         LNAPTPAEIHR----------------------PELNTASTRSGARTKSMATHLPALEEV
+gbr.35.57.t1    TAPDKSNPLGMVINEEIDYP------CHLDEDMPGPSRRPTEEARATVSYTLPLVHLPNV
+gbr.508.2.t1    VPFKPPAGYKAVVADD--------------------------------------------
+gbr.176.5.t1    TVSTKTDEIEM------------------ESGVQKPTRSSLKGGRERANK----------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         --GIPETGYKTVVKEVTQLDEESQNCVTAEGAVEVIGDRAKQNSVSTDNCSLELNHIIDG
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         -------------------LSSKIQKFEIS------------EKNNTPSSSELPGASSLS
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ----------------DDTEGSMINNLMRPRSHSVTS-D-NISRVFAPSLKRPTKKRSMS
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         PSG-------------APQCSALLHNTPIPR-----------SLQGTPLPYQPQPSTSDL
+gbr.35.57.t1    LA-----------------SASSIEGFNSNAS-SLPE-DFHFEKRGSILYAEAQRATKVF
+gbr.508.2.t1    ------------------------------------------HGSGSRLLADLNRHVHLV
+gbr.176.5.t1    ----------------------------------------NSNNNGNQSASEQRRRS---
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         --------------------------------------------NDSHRMSEARR-----
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         IHGKYAGIKQDVDDEEEDTSCDQIKEIPVKEPKKLSKLDKTSCSVVSAGGKEDKRKTAIA
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    -------------------TAEAVEHFDRFRK--------SLKLCENPRTSSRDRRAHDA
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         ------------------------------------------------------------
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         -----HPDIPSTSADIFTVSPTTIKN----------------------------------
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         HDEFLNPSVVSRNMCVIVVKPN--------------------------------------
+gbr.35.57.t1    -----SSASAKFSVPVFLIEPECLTNISLLRTAEMNKIYPGQCKYLCGPRNVTTFGILDS
+gbr.508.2.t1    YD----------------------------------------------------------
+gbr.176.5.t1    -----FPDTSSTTVDSGNV-----------------------------------------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         IDYYSSQSSVNADSGVFETSPNCNTA----------------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         ----------------------------GALMPPRRA-----------------------
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ------------------------------------------------------------
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         ------------------------------------------------------------
+gbr.35.57.t1    RLISREFFSFLEEILKMKWIILYGKDPRHLPMDHRDTPEIPLHYLFDYSGQFIHLVVFYE
+gbr.508.2.t1    ----------------------------HQLIRHRK-PG---------------------
+gbr.176.5.t1    ----------------------------NLVMKSRDG-----------------------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         ------------------------------------------------------------
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ------------------------------------------------------------
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         ------------------------------------------------------------
+gbr.35.57.t1    RSNSYLWHGAVQLDPTRPGRMWPPSSCFENVDLRKLKFGGTYAGAYNKMEFTTTQADRLN
+gbr.508.2.t1    --N---------------------------------------------------------
+gbr.176.5.t1    ------------------------------------------------------------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         ---------------------------------KK-------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         ---------------MKNQVGCL-------------------------------------
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   -----------------RQ-----------------------------------------
+Sp_ops3         ---------------LQKQ-----------------------------------------
+gbr.470.6.t1    ---------------IELEIKGE-------------------------------------
+Sp_ops8         ---------------IEEELSTD-------------------------------------
+gbr.35.57.t1    LLVPKHIDRFLDQIPFSRHIECNYGQVRAFRAAYGRDESPEAQAFRQAARDLLEKGKQVL
+gbr.508.2.t1    ------------------------------------------------------------
+gbr.176.5.t1    -------------VKIQEHYAAY--------------DNPAA------------------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         -----------SQISVQRQIENEI------------------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ---------------VQGR-----------------------------------------
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         -----------------------------------------------------------P
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ------------------------------------------------------------
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         ------------------------------------------------------------
+gbr.35.57.t1    DELGIRFWLSSGTCLGWFRECDIIAHSQDVDFGIWIKDYKSHVIKELDSRGLTLKHQFGR
+gbr.508.2.t1    ------------------------------------------------------------
+gbr.176.5.t1    -----------------------------------------------------------S
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         ------------------------------------------------------------
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   ------------------------------------------------------------
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A ------------------------------------------------------------
+                                                                            
+
+Sp_ops1         PVDN--------------------------------------------------------
+Sp_ops5         ------------------------------------------------------------
+gbr.176.10.t1   ------------------------------------------------------------
+Sp_ops3         ------------------------------------------------------------
+gbr.470.6.t1    ------------------------------------------------------------
+Sp_ops8         ------------------------------------------------------------
+gbr.35.57.t1    ISDSFQLSFMDDSIKLDLFFFYDERDHMWNGGTEVRTGNKFKYIFPKFTLCWTELLGLKV
+gbr.508.2.t1    ------------------------------------------------------------
+gbr.176.5.t1    VSDREELT------KL--------------------------------------------
+gbr.65.46.t1    ------------------------------------------------------------
+Sp_ops6         FADHFV------------------------------------------------------
+gbr.31.87.t1    ------------------------------------------------------------
+gbr.37.118.t1   --------------KK--------------------------------------------
+Sp_ops2         ------------------------------------------------------------
+gbr.212.22.t1   ------------------------------------------------------------
+gbr.65.45.t1    ------------------------------------------------------------
+Sp-melatonin_1A --------------RV---------------GTSI-------------------------
+                                                                            
+
+Sp_ops1         ----------------------------------------------------
+Sp_ops5         ----------------------------------------------------
+gbr.176.10.t1   ----------------------------------------------------
+Sp_ops3         ----------------------------------------------------
+gbr.470.6.t1    ----------------------------------------------------
+Sp_ops8         ----------------------------------------------------
+gbr.35.57.t1    RVPCNTRQYIEANYGQEWNQKVTTWDWKTSPPNVRPNGRWNRDEWTEVIQMF
+gbr.508.2.t1    ----------------------------------------------------
+gbr.176.5.t1    ----------------------------------------------------
+gbr.65.46.t1    ----------------------------------------------------
+Sp_ops6         ----------------------------------------------------
+gbr.31.87.t1    ----------------------------------------------------
+gbr.37.118.t1   ----------------------------------------------------
+Sp_ops2         ----------------------------------------------------
+gbr.212.22.t1   ----------------------------------------------------
+gbr.65.45.t1    ----------------------------------------------------
+Sp-melatonin_1A ----------------------------------------------------
+                                                                    
